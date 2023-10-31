@@ -1,4 +1,4 @@
-#Gabriela Lenz - ra:1134904 e  Pablo Antônio de Oliveira - ra:1134335#
+#Gabriela Lenz - ra:1134904 e  Pablo Antônio de Oliveira - ra:1134335
 from funcoes import limparTela, esperarSegundos, soma, lerString
 limparTela()
 print("Jogo da Forca! ")
